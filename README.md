@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ### Social >
 - 🧠 Root-Me : [Page](https://www.root-me.org/Sword-Sec)
-- 🛸 HackTheBox : [Page](https://www.hackthebox.eu/home/users/profile/406593)
 - 🌋 TryHackMe : [Page](https://tryhackme.com/p/SwordSec)
+- 🛸 HackTheBox : [Page](https://www.hackthebox.eu/home/users/profile/406593)
 - ❤️ YouTube : [Page](https://www.youtube.com/channel/UCwWhKOb1EXmXlqC5zOUWmQw)
 - 💜 Discord : 0xSword#1337
 <br>
