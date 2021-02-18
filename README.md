@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 -->
 
 ### Info >
-- 💬 My CV : [Page](http://nxstro-cv.alwaysdata.net/)
-- Projet Site : [Page](http://activelitterature.alwaysdata.net/)
-- 👨‍💻 17 years
-- 🇫🇷 High school student in France
-- 🏴‍☠️ Pro Hacker Nasa 1337
+- ⚡ 17 years
+- 📫 High school student in France
+- 💣 Pro Hacker Nasa 1337
+
+### My Projects >
+- 💬 Sword-Blog (My personal blog with articles) : [Page](http://sword-blog.alwaysdata.net/)
+- 💥 My bookstore site (demo to set up my knowledge in PHP): [Page](http://activelitterature.alwaysdata.net/)
 
 ### Social >
 - 🧠 Root-Me : [Page](https://www.root-me.org/Sword-Sec)
