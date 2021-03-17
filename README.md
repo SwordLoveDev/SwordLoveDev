@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - ⚡ 17 years
 - 📫 High school student in France
 - 💣 Pro Hacker Nasa 1337
+- 🚩 I love CTF 
 
 ### My Projects >
 - 💬 Sword-Blog (My personal blog with articles) : [Page](http://sword-blog.alwaysdata.net/)
