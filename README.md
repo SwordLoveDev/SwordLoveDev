@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🌋 TryHackMe : [Page](https://tryhackme.com/p/SwordSec)
 - 🛸 HackTheBox : [Page](https://www.hackthebox.eu/home/users/profile/406593)
 - ❤️ YouTube : [Page](https://www.youtube.com/channel/UCwWhKOb1EXmXlqC5zOUWmQw)
-- 💜 Discord : 0xSword#1337
+- 💜 Discord : Sword#1337
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwordLoveDev&layout=compact&theme=tokyonight">
 
